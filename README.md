@@ -4,7 +4,6 @@ A library that creates directories from JSON or a NodeType object and developes 
 It has been developing and we are in the beginning of JsonDirectory.
 JsonDirectory library can be added as service with IJsonDirectory interface.
 
-
 ```
 
 IJsonDirectory<NodeType> jsonDirectory = new JsonDirectory<NodeType>();
