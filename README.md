@@ -1,4 +1,4 @@
-# JsonDirectory
+# json-directory
 
 A library that creates directories from JSON or a NodeType object and developes in .NetCore. Actually, the library hasn't been completed yet.
 It has been developing and we are in the beginning of JsonDirectory.
